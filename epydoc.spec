@@ -4,7 +4,7 @@
 #
 Name     : epydoc
 Version  : 3.0.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/60/a7/666cb415b0f5d8d5c99f145e03a6005220090d7b77637871ac52c2cabcba/epydoc-3.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/60/a7/666cb415b0f5d8d5c99f145e03a6005220090d7b77637871ac52c2cabcba/epydoc-3.0.1.tar.gz
 Summary  : Tool for generating API documentation for Python modules, based on their docstrings
